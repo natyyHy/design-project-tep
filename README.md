@@ -1,6 +1,6 @@
 # design-project-tep
 
-# Assistente Centralizador de Assets
+# Palette.ai - Assistente Centralizador de Assets
 
 **Contexto e Dor Real:** Designers de interface sofrem com um processo exaustivo e fragmentado, perdendo tempo pulando entre vários sites para estruturar cores, fontes e imagens para um novo projeto
 
