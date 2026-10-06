@@ -1,0 +1,27 @@
+{
+  "name": "design-project-tep",
+  "version": "1.0.0",
+  "types": "module",
+  "description": "**Contexto e Dor Real:** Designers de interface sofrem com um processo exaustivo e fragmentado, perdendo tempo pulando entre vários sites para estruturar cores, fontes e imagens para um novo projeto",
+  "main": "index.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "iceberg-js": "^0.8.1",
+    "tslib": "^2.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natyyHy/design-project-tep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/natyyHy/design-project-tep/issues"
+  },
+  "homepage": "https://github.com/natyyHy/design-project-tep#readme"
+}
